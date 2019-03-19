@@ -1,0 +1,6 @@
+draw_sprite_ext(spr_message_box_bt,0,x,y,1,1,0,message_box_confirm_button_colour,1)
+draw_set_valign(1)
+draw_set_halign(1)
+draw_set_font(message_box_confirm_button_font)
+draw_set_color(message_box_confirm_button_string_colour)
+draw_text(x,y+15,message_box_confirm_button_string)

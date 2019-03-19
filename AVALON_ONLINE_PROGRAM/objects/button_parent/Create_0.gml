@@ -1,0 +1,2 @@
+selected = false
+clicked = false

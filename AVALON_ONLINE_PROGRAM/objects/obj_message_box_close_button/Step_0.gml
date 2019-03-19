@@ -1,0 +1,1 @@
+image_blend = message_box_close_button_colour
